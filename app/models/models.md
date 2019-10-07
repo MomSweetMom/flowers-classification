@@ -1,0 +1,1 @@
+* For .pth files 
